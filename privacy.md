@@ -1,5 +1,5 @@
 ---
-title: Privacy policy — Temporis
+title: Privacy policy
 permalink: /privacy/
 ---
 
